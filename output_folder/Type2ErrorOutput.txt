@@ -1,0 +1,15 @@
+{
+    name
+    Nate
+    age
+    1.23e+10
+    isStudent
+    true
+    graduated
+    false
+    courses
+    [
+        {
+            (none)
+
+Error Type 2 at '': Empty Key

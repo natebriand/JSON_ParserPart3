@@ -1,0 +1,17 @@
+{
+    product
+    Laptop
+    brand
+    TechBrand
+    specs
+    {
+        processor
+        Inteli7
+        ram
+        16GB
+        storage
+        512GBSSD
+    }
+    specs
+
+Error Type 5 at 'specs': Duplicate Key

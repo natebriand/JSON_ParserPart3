@@ -1,0 +1,16 @@
+{
+    movieTitle
+    Inception
+    ratings
+    {
+        imdb
+        8
+        rottenTomatoes
+        87
+    }
+    genres
+    [
+        Action
+        2056
+
+Error Type 6 at '2056': Inconsistent List Element Type

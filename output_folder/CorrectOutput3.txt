@@ -1,0 +1,14 @@
+{
+    manufacturer
+    Apple
+    model
+    iPhone14
+    color
+    Black
+    storageCapacity
+    128GB
+    price
+    999
+    releaseYear
+    2023
+}

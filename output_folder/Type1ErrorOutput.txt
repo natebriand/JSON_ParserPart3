@@ -1,0 +1,23 @@
+{
+    recipe
+    {
+        name
+        ChocolateChipCookies
+        ingredients
+        [
+            1cupbutter
+            2cupsflour
+            1cupchocolatechips
+        ]
+        instructions
+        [
+            Preheatovento350F
+            Mixbutterandsugaruntilcreamy
+            Addflourandmixwell
+            Stirinchocolatechips
+            Bakefor12-15minutes
+        ]
+        servings
+        .24
+
+Error Type 1 at '.24': Invalid Decimal Number

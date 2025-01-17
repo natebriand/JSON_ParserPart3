@@ -1,0 +1,16 @@
+{
+    library
+    {
+        name
+        CentralLibrary
+        location
+        Downtown
+        books
+        [
+            {
+                title
+                TheGreatGatsby
+                author
+                false
+
+Error Type 7 at 'false': Reserved Word as String

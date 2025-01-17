@@ -1,0 +1,76 @@
+<LEFTCURLY, {>
+<STRING, name>
+<COLON, :>
+<STRING, Nate>
+<COMMA, ,>
+<STRING, age>
+<COLON, :>
+<NUMBER, 1.23e+10>
+<COMMA, ,>
+<STRING, isStudent>
+<COLON, :>
+<TRUE, true>
+<COMMA, ,>
+<STRING, graduated>
+<COLON, :>
+<FALSE, false>
+<COMMA, ,>
+<STRING, courses>
+<COLON, :>
+<LEFTSQUARE, [>
+<LEFTCURLY, {>
+<STRING, >
+<COLON, :>
+<STRING, Theory of Computer Science>
+<COMMA, ,>
+<STRING, courseCode>
+<COLON, :>
+<STRING, CSCI 2115>
+<COMMA, ,>
+<STRING, grade>
+<COLON, :>
+<NULL, null>
+<RIGHTCURLY, }>
+<COMMA, ,>
+<LEFTCURLY, {>
+<STRING, courseName>
+<COLON, :>
+<STRING, Data Structures>
+<COMMA, ,>
+<STRING, courseCode>
+<COLON, :>
+<STRING, CSCI 2110>
+<COMMA, ,>
+<STRING, grade>
+<COLON, :>
+<STRING, A>
+<RIGHTCURLY, }>
+<RIGHTSQUARE, ]>
+<COMMA, ,>
+<STRING, hobbies>
+<COLON, :>
+<LEFTSQUARE, [>
+<STRING, coding>
+<COMMA, ,>
+<STRING, gaming>
+<COMMA, ,>
+<STRING, reading>
+<RIGHTSQUARE, ]>
+<COMMA, ,>
+<STRING, address>
+<COLON, :>
+<LEFTCURLY, {>
+<STRING, street>
+<COLON, :>
+<STRING, 1234 Elm St>
+<COMMA, ,>
+<STRING, city>
+<COLON, :>
+<STRING, Halifax>
+<COMMA, ,>
+<STRING, postalCode>
+<COLON, :>
+<STRING, B2T 1E6>
+<RIGHTCURLY, }>
+<RIGHTCURLY, }>
+<EOF, -1>

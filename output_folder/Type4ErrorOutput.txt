@@ -1,0 +1,6 @@
+{
+    weather
+    sunny
+    true
+
+Error Type 4 at 'true': Dictionary Key is a Reserved Word

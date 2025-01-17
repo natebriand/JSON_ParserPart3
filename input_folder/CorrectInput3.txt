@@ -1,0 +1,26 @@
+<LEFTCURLY, {>
+<STRING, manufacturer>
+<COLON, :>
+<STRING, Apple>
+<COMMA, ,>
+<STRING, model>
+<COLON, :>
+<STRING, iPhone 14>
+<COMMA, ,>
+<STRING, color>
+<COLON, :>
+<STRING, Black>
+<COMMA, ,>
+<STRING, storageCapacity>
+<COLON, :>
+<STRING, 128GB>
+<COMMA, ,>
+<STRING, price>
+<COLON, :>
+<NUMBER, 999>
+<COMMA, ,>
+<STRING, releaseYear>
+<COLON, :>
+<NUMBER, 2023>
+<RIGHTCURLY, }>
+<EOF, -1>

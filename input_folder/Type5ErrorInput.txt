@@ -1,0 +1,34 @@
+<LEFTCURLY, {>
+<STRING, product>
+<COLON, :>
+<STRING, Laptop>
+<COMMA, ,>
+<STRING, brand>
+<COLON, :>
+<STRING, TechBrand>
+<COMMA, ,>
+<STRING, specs>
+<COLON, :>
+<LEFTCURLY, {>
+<STRING, processor>
+<COLON, :>
+<STRING, Intel i7>
+<COMMA, ,>
+<STRING, ram>
+<COLON, :>
+<STRING, 16GB>
+<COMMA, ,>
+<STRING, storage>
+<COLON, :>
+<STRING, 512GB SSD>
+<RIGHTCURLY, }>
+<COMMA, ,>
+<STRING, specs>
+<COLON, :>
+<NUMBER, 1200>
+<COMMA, ,>
+<STRING, available>
+<COLON, :>
+<TRUE, true>
+<RIGHTCURLY, }>
+<EOF, -1>

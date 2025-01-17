@@ -1,0 +1,42 @@
+<LEFTCURLY, {>
+<STRING, recipe>
+<COLON, :>
+<LEFTCURLY, {>
+<STRING, name>
+<COLON, :>
+<STRING, Chocolate Chip Cookies>
+<COMMA, ,>
+<STRING, ingredients>
+<COLON, :>
+<LEFTSQUARE, [>
+<STRING, 1 cup butter>
+<COMMA, ,>
+<STRING, 2 cups flour>
+<COMMA, ,>
+<STRING, 1 cup chocolate chips>
+<RIGHTSQUARE, ]>
+<COMMA, ,>
+<STRING, instructions>
+<COLON, :>
+<LEFTSQUARE, [>
+<STRING, Preheat oven to 350F>
+<COMMA, ,>
+<STRING, Mix butter and sugar until creamy>
+<COMMA, ,>
+<STRING, Add flour and mix well>
+<COMMA, ,>
+<STRING, Stir in chocolate chips>
+<COMMA, ,>
+<STRING, Bake for 12-15 minutes>
+<RIGHTSQUARE, ]>
+<COMMA, ,>
+<STRING, servings>
+<COLON, :>
+<NUMBER, .24>
+<COMMA, ,>
+<STRING, difficulty>
+<COLON, :>
+<STRING, Easy>
+<RIGHTCURLY, }>
+<RIGHTCURLY, }>
+<EOF, -1>

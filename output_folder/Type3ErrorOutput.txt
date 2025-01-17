@@ -1,0 +1,13 @@
+{
+    username
+    coder123
+    names
+    [
+        jack
+        john
+        jared
+    ]
+    years
+    +12
+
+Error Type 3 at '+12': Invalid Number
